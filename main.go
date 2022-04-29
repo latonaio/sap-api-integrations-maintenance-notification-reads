@@ -2,7 +2,7 @@ package main
 
 import (
 	sap_api_caller "sap-api-integrations-maintenance-notification-reads/SAP_API_Caller"
-	"sap-api-integrations-maintenance-notification-reads/sap_api_input_reader"
+	"sap-api-integrations-maintenance-notification-reads/SAP_API_Input_Reader"
 
 	"github.com/latonaio/golang-logging-library-for-sap/logger"
 )
